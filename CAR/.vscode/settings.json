@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "gd32f30x.h": "c",
+        "gd32f30x_libopt.h": "c",
+        "system_time.h": "c",
+        "gd32f30x_it.h": "c",
+        "encoder_drv.h": "c",
+        "task_priority.h": "c",
+        "ano_tc.h": "c",
+        "exti_drv.h": "c",
+        "gd32f30x_exti.h": "c",
+        "ringbuffer.h": "c",
+        "limits": "c",
+        "recive_device.h": "c",
+        "hc_connect.h": "c",
+        "task.h": "c",
+        "central_control_system.h": "c",
+        "control_system.h": "c"
+    },
+    "cortex-debug.variableUseNaturalFormat": true
+}
